@@ -15,6 +15,10 @@ A propos.
 
 - Un algorithme qui donne le meilleur bénef
 
+## Compter les mots
+
+- Un fonction qui compte les mots du dictionnaire en fonction de ses occurences dans le texte
+
 https://github.com/RianaRC/Premiers-programmes.git
 
 
