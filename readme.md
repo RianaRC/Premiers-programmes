@@ -1,6 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Group Rian Rc et Tino Sam
+# Group Riana Rc et Tino Sam
+# Madagascar
 > 
 
 A propos.
